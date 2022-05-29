@@ -1,1 +1,11 @@
-# ZhangWeinian-Programming-Practice
+# Programming-Practice
+## 关于我
+在校大学生一名,编程新手.
+
+这个仓库是个人写的一些有趣的小项目,比如五子棋,2048等等.
+
+联系邮箱:zhangweinain.cqupt@outlook.com
+
+## 关于项目
+
+都是一些基础当有趣的小项目,预计都在500行左右.由于我也是新手一名,难免有不完善的地方,故希望朋友可以不吝提出宝贵的意见和建议,与君共勉!
